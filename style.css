@@ -16,7 +16,8 @@ header {
   color: #fff;
   padding: 0.3em 0;      /* thin height */
   margin: 0;
-  line-height: 1;        /* tighten blue bar */
+  line-height: 1;   
+  text-align: center;/* tighten blue bar */
 }
 
 header h1 {
