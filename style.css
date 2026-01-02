@@ -65,7 +65,7 @@ header h1 {
 
 #pdf-upload input[type="file"] {
   background-color: #fff;
-  color: #fff;
+  color: #000;
   border: 1px solid #555;
   border-radius: 5px;
   padding: 6px;
